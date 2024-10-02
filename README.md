@@ -7,7 +7,6 @@
 
 > decouple
 
-> Python 3.12 
 ### Token
 > Adicione sua token no arquivo #.env
 
